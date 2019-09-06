@@ -80,6 +80,80 @@ View package has the user interfaces in it with the following classes.
 •	RetrieveTicketGUI.java: UI used by both user in order to retrieve the ticket
 •	TicketSearchGUI.java: UI Used by the admin to retrieve all the tickets.
 
+8.	Application Flow
+Admin Login:
+
+ 
+
+
+User Management:
+ 
+
+User Management - Edit User:
+ 
+
+Route Management:
+ 
+
+
+Route Management – Add Route:
+ 
+
+Route Management – All Route:
+ 
+
+
+
+
+
+Route Management – Edit Route:
+ 
+
+
+
+
+
+Balance Sheet:
+
+ 
+
+Ticket Search:
+ 
+
+
+
+
+User Portal
+
+ 
+
+Book Ticket
+
+ 
+
+
+Seat Selection
+
+ 
+
+Ticket confirmation
+
+ 
+Retrieve Ticket
+
+ 
+
+ 
+
+
+
+Cancel Ticket.
+
+ 
+
+ 
+
+
 
 
 Controller:
